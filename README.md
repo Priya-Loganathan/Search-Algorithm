@@ -41,9 +41,10 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 
 ```
 ## Sample Input and Output
-![Screenshot 2023-01-23 194012](https://user-images.githubusercontent.com/121166075/214061487-8f823f45-b9db-471f-8a56-c7819197fdf0.png)
-![Screenshot 2023-01-23 194050](https://user-images.githubusercontent.com/121166075/214061546-d28b7c67-5a20-495d-a413-c9ee4de5711e.png)
-![Screenshot 2023-01-23 194134](https://user-images.githubusercontent.com/121166075/214061614-d1e7fe08-561d-40ca-8903-e426d93b2ba5.png)
+![Screenshot 2023-01-23 195945](https://user-images.githubusercontent.com/121166075/214065398-d64deda4-86db-4384-a11b-806141093356.png)
+![Screenshot 2023-01-23 200023](https://user-images.githubusercontent.com/121166075/214065477-fb8ee29c-d021-445a-be35-c261e68d222d.png)
+![Screenshot 2023-01-23 200113](https://user-images.githubusercontent.com/121166075/214065527-ecce2f5d-781d-457b-8ace-76c7c7a7a434.png)
+
 
 
 
